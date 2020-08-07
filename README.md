@@ -40,3 +40,5 @@ For more information about software pre-requisites, remit to the file "Installat
 The following project was made by the following students of Pontificia Universidad Javeriana:
 - Andrés Felipe Luna Camacho
 - Nicolás Esteban Rodriguez Menjura
+
+Bogotá D.C., Colombia
