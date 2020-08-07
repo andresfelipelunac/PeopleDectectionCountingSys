@@ -37,6 +37,6 @@ For more information about program capabilities and characteristics, remit to th
 For more information about software pre-requisites, remit to the file "Installation Pre-requisites"
 
 # Contributors
-The following project was made by:
+The following project was made by the following students of Pontificia Universidad Javeriana:
 - Andrés Felipe Luna Camacho
 - Nicolás Esteban Rodriguez Menjura
