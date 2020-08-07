@@ -9,7 +9,7 @@ People detection and counting system at indoor spaces using computer vision base
 
 The following source is the result of a 6 month bachelor degree project at Pontificia Universidad Javeriana - Bogotá, about people counting systems using computer vision strategies. The final result is an executable program (graphical interface) where user can perform the following tasks:
 
-- Train one of the following vision algorithms using a custom database with classes "Person" and "No Person". 
+- Train one of the following vision algorithms using a custom database with classes "Person" and "No Person".
 
   - HoG / SVM or HoG / RF
   - SIFT - FV / SVM or SIFT - FV /RF
@@ -35,3 +35,8 @@ For more information about the folders and files of the program, remit to the fi
 For more information about program capabilities and characteristics, remit to the file "Graphic Interface capabilities and instructions.pdf"
 
 For more information about software pre-requisites, remit to the file "Installation Pre-requisites"
+
+# Contributors
+The following project was made by:
+- Andrés Felipe Luna Camacho
+- Nicolás Esteban Rodriguez Menjura
